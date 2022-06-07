@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Emily 👋
 
 <!--
 **lienweb/lienweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- basic info -->
+- 🌱 I’m currently learning all the basics to become a frontend engineer.
+- ⚡ Fun fact: a previous QA engineer and software engineer using C language
+
+<!-- readme stats -->
+[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=lienweb)](https://github.com/lienweb/github-readme-stats&show_icons=true&theme=shades-of-purple)
