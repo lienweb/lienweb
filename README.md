@@ -4,7 +4,7 @@
 
 <h3 align="left">About Me</h3>
 
-- 🌱  I’m currently learning all the basics to become a **frontend engineer**
+- 🌱  I’m currently learning all the essentials to become a **frontend engineer**
 - ⚡   Keep coding & work out more!
 
 ---
@@ -32,22 +32,19 @@
 #### Backend as a Service
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
----
 #### Testing Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-### :mailbox_with_email:Contact Me Via
+### :mailbox_with_mail: Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](#)
 
 ---
 <!-- readme stats -->
 [![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=lienweb&show_icons=true&theme=shades-of-purple&hide=contribs,prs)](https://github.com/lienweb)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lienweb&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="lienweb" /></p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lienweb&theme=shades-of-purple&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lienweb&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="lienweb" /></p>
 
 <!-- notes -->
 <!-- ### Hi there I'm Emily 👋 -->
