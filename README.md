@@ -35,11 +35,12 @@
 #### Testing Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<!--
 ---
 ### :mailbox_with_mail: Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](#)
-
+ -->
 ---
 <!-- readme stats -->
 [![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=lienweb&show_icons=true&theme=shades-of-purple&hide=contribs,prs)](https://github.com/lienweb)
