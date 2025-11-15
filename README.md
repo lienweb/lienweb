@@ -1,5 +1,5 @@
 <!-- basic info -->
-<h1 align="left">Hi 👋, thanks for reaching out!</h1>
+<h1 align="left">Hi 👋 thanks for reaching out!</h1>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=lienweb&label=Profile%20views&color=0e75b6&style=flat" alt="lienweb" /> </span>
 
 [![Github](https://img.shields.io/github/followers/lienweb?label=Follow&style=social)](https://github.com/lienweb)
@@ -10,7 +10,7 @@
 
 - 2025/10 🥈 2nd place at [Sui HOH mandarin Hackathon](https://x.com/0xHOH/status/1983472825689358499)
 - 2025/09 🥉 3rd place at [Sui Taipei Dev Hackathon](https://x.com/VisionM_F/status/1967287863831380271)
-- Open-source
+- Open source project
 
 ---
 
